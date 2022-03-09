@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Why We use &lt;br&gt;",
+        "answer_1": "to make text bold",
+        "answer_2": "to make text italic",
+        "answer_3": "to add Breakline (true)",
+        "answer_4": "to create horizontal line",
+        "right_answer": "to add Breakline (true)"
+    },
+    {
+        "title": "Is &lt;img&gt; element has attribute href",
+        "answer_1": "yes",
+        "answer_2": "No , its for anchor tag <a> (true)",
+        "answer_3": "all elements has this attribute",
+        "answer_4": "answer 1 and 3 is right",
+        "right_answer": "No , its for anchor tag <a> (true)"
+    },
+    {
+        "title": "how can make element text bold",
+        "answer_1": "putting it inside <b> tag",
+        "answer_2": "putting it inside <strong> tag",
+        "answer_3": "Customizing it with Font-Weight property in CSS",
+        "answer_4": "All Answers Is Right (true)",
+        "right_answer": "All Answers Is Right (true)"
+    }
+]
