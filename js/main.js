@@ -21,7 +21,7 @@ let quiz_app = document.querySelector(".quiz_app"),
   correct_answers = 0;
 async function getApi() {
   try {
-    const response = await fetch("../js/questions.json");
+    const response = await fetch("https://a-mohammed2001.github.io/Quiz_App/js/questions.json");
     const questions = await response.json();
     showData(questions, question_index);
     //
